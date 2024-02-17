@@ -1,2 +1,2 @@
 FROM almalinux
-RUN /bin/sh -c touch/tmp/hello.txt
+RUN touch/tmp/hello.txt
